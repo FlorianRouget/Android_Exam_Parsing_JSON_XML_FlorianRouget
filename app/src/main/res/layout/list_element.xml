@@ -1,0 +1,65 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="#00aacc">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1">
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1">
+
+            <TextView
+                android:text="List_Name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:id="@+id/List_Name"
+                android:textSize="24sp"
+                android:textStyle="normal|bold" />
+
+            <TextView
+                android:text="List_Gender"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:id="@+id/List_Gender"
+                android:textSize="18sp"
+                android:textStyle="normal|italic" />
+        </LinearLayout>
+
+        <TextView
+            android:text="List_Mail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/List_Mail"
+            android:layout_weight="1"
+            android:textSize="18sp"
+            android:textStyle="normal|italic"
+            android:textColor="#CC00CC"/>
+
+        <TextView
+            android:text="List_Adress"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/List_Adress"
+            android:layout_weight="1"
+            android:textSize="18sp" />
+
+    </LinearLayout>
+
+    <TextView
+        android:text="C200"
+        android:layout_width="86dp"
+        android:layout_height="match_parent"
+        android:id="@+id/List_Id"
+        android:textSize="30sp"
+        android:textAlignment="center"
+        android:textStyle="normal|bold" />
+
+</LinearLayout>

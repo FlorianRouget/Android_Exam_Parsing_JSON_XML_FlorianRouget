@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<contacts>
+    <contact>
+        <id>c200</id>
+        <name>Ravi Tamada</name>
+        <email>ravi@gmail.com</email>
+        <adresse>xx-xx-xxxx,x - street, x - country</adresse>
+        <gender>male</gender>
+    </contact>
+    <contact>
+        <id>c201</id>
+        <name>Johnny Depp</name>
+        <email>johnny_depp@gmail.com</email>
+        <adresse>xx-xx-xxxx,x - street, x - country</adresse>
+        <gender>male</gender>
+    </contact>
+    <contact>
+        <id>c202</id>
+        <name>Leonardo Dicaprio</name>
+        <email>leonardo_dicaprio@gmail.com</email>
+        <adresse>xx-xx-xxxx,x - street, x - country</adresse>
+        <gender>male</gender>
+    </contact>
+    <contact>
+        <id>c203</id>
+        <name>John Wayne</name>
+        <email>john_wayne@gmail.com</email>
+        <adresse>xx-xx-xxxx,x - street, x - country</adresse>
+        <gender>male</gender>
+    </contact>
+    <contact>
+        <id>c204</id>
+        <name>Angelina Jolie</name>
+        <email>angelina_jolie@gmail.com</email>
+        <adresse>xx-xx-xxxx,x - street, x - country</adresse>
+        <gender>female</gender>
+    </contact>
+</contacts>
